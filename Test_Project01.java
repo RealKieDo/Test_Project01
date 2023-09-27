@@ -1,4 +1,4 @@
-public class project {
+public class Test_Project01 {
     public static void main(String[] args) {
 
         System.out.println("Hello everyone");
